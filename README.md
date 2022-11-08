@@ -4,4 +4,4 @@ Sistema desenvolvido com o intuito de facilitar no controle de estoque para uma 
 
 **Linguagem na qual foi desenvolvido:** Python 3.
 
-**Autor:** @ThaynanRibeiro.
+**Autor:** *@ThaynanRibeiro*.
